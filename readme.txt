@@ -9,3 +9,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 git second changes.
 git is better than svn
+rewise and commit again
